@@ -1,0 +1,11 @@
+.headerMenu {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.headerList {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
