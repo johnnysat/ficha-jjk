@@ -1,5 +1,6 @@
 import { React } from 'react';
 
+import mainImage from './../../images/jjk-main.jpg'
 import './main.css'
 
 export default function Main() {
@@ -12,6 +13,10 @@ export default function Main() {
                     são compilados em volume tankōbon, e publicados pela Shueisha desde julho de 2018.
                     A série é licenciada e publicada no Brasil pela editora Panini.</p>
             </div>
+            <img 
+            src={mainImage} 
+            alt="Três personagens do anime, respectivamente: Megumi, Itadori e Gojo"
+            />
         </>
     )
 }
