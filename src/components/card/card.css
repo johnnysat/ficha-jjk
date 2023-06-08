@@ -1,0 +1,12 @@
+.card {
+    width: 400px;
+    height: 500px;
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.5));
+    backdrop-filter: blur(5px);
+    margin-top: 5%;
+    position: absolute;
+    right: 0;
+    margin-right: 3rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

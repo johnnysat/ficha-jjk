@@ -3,6 +3,7 @@ import './App.css'
 
 import Header from './components/header/header'
 import Main from './components/main/main'
+import Card from './components/card/card'
 
 
 
@@ -10,7 +11,10 @@ function App() {
   return (
     <div className="bodyBox">
     <Header />
-    <Main />
+      <section className="container">
+      <Main />
+      <Card />
+      </section>
     </div>
   )
 }

@@ -12,4 +12,9 @@ body {
     background-size: cover;
     background-position: center;
   }
+
+.container {
+	width: 100%;
+	display: flex;
+}
   
