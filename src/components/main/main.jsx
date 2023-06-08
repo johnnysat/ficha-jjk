@@ -12,11 +12,14 @@ export default function Main() {
                     serializado na Weekly Shōnen Jump desde 5 de março de 2018. Os capítulos individuais
                     são compilados em volume tankōbon, e publicados pela Shueisha desde julho de 2018.
                     A série é licenciada e publicada no Brasil pela editora Panini.</p>
+                
+                <img
+                className="mainImage"
+                src={mainImage} 
+                alt="Três personagens do anime, respectivamente: Megumi, Itadori e Gojo"
+                />
+                
             </div>
-            <img 
-            src={mainImage} 
-            alt="Três personagens do anime, respectivamente: Megumi, Itadori e Gojo"
-            />
         </>
     )
 }
