@@ -4,7 +4,12 @@
     padding: 0;
 }
 
-.bodyBox{
-    padding-left: 5%;
-    padding-right: 5%;
-}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./images/jjk-main.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  

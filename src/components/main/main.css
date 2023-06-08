@@ -1,9 +1,40 @@
 .mainBox {
-    width: 500px;
     margin-top: 5%;
-}
+    padding-left: 3rem;
+    height: 20%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  main {
+    width: 500px;
+    position: relative;
+    z-index: 2;
+    height: 600px;
+  }
 
-.mainImage
-{
+  main h1 {
+    padding-top: 100px;
+    margin-bottom: 1rem;
+
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    background: linear-gradient(to left, transparent, white);
+    backdrop-filter: blur(10px);
+    z-index: 1;
+  }
+  
+  .mainImage {
     width: 100%;
-}
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
