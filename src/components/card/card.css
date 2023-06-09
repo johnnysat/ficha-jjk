@@ -10,3 +10,28 @@
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
+.titleCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 1rem;
+}
+
+.listCard {
+    list-style: none;
+}
+
+.listCard li {
+    width: 95%;
+    height: 80px;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

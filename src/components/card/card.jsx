@@ -6,7 +6,8 @@ export default function Card(){
     return (
         <>
         <div className="card">
-            <ul>
+            <h2 className="titleCard">Links Úteis</h2>
+            <ul className="listCard">
                 <li>teste</li>
                 <li>teste</li>
                 <li>teste</li>
