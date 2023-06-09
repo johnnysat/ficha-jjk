@@ -8,10 +8,7 @@ export default function Main() {
         <main>
           <h1>UM PRG DE JUJUTSU KAISEN</h1>
           <p>
-            Jujutsu Kaisen é um mangá japonês escrito e ilustrado por Gege Akutami, serializado na Weekly 
-            Shōnen Jump desde 5 de março de 2018. Os capítulos individuais são compilados em volume tankōbon, 
-            e publicados pela Shueisha desde julho de 2018. A série é licenciada e publicada no Brasil pela 
-            editora Panini.
+          O JRPG é baseado na obra homônima do autor Gege Akutami, onde o cenário utilizado é o próprio mundo moderno com a adição da Energia Amaldiçoada e suas respectivas regras. Embora exista todo o mundo disponível aos jogadores, todas as atividades serão realizadas, prioritariamente, no Japão. É necessário, portanto, que o personagem criado resida lá no atual momento, embora nada o impeça de ser originário de outros países. Apesar de ser baseado em Jujutsu Kaisen, não existirão personagens oficiais, embora nada o impeça de utilizar o mesmo nome e aparência - desde que estejam livres. 
           </p>
         </main>
         <div className="overlay"></div>
