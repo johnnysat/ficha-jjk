@@ -8,10 +8,10 @@ export default function Card(){
         <div className="card">
             <h2 className="titleCard">Links Úteis</h2>
             <ul className="listCard">
-                <li>teste</li>
-                <li>teste</li>
-                <li>teste</li>
-                <li>teste</li>
+                <li>Feiticeiros & Classes</li>
+                <li>Perícias & Talentos</li>
+                <li>Energia Amaldiçoada</li>
+                <li>Maldiçoes</li>
             </ul>
         </div>
         </>
